@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-## This project is e-shope, you can visit here with this link [Tesla-car shop].
+## This project is e-shope, you can visit here with this link [Tesla-car shop](https://tesla-car-dbbc6.web.app).
 
 
 - After nearly 16 months with our Tesla Model 3 Standard Range Plus (SR+), I decided to create a full summary video running through everything I could think to note from the time of buying the car until today. Watch the video for the full summary. Below the video is a bullet-point list of some highlights.
