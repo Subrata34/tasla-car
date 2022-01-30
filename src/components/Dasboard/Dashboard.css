@@ -1,0 +1,14 @@
+.dashboard {
+  background-color: rgb(55, 19, 58);
+  height: 100vh;
+  color: white;
+  cursor: pointer;
+}
+.dashboard-menu {
+  list-style: none;
+  margin-top: 10px;
+  text-decoration: none;
+}
+.dashboard-menu:hover {
+  color: rgb(116, 175, 38);
+}
